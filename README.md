@@ -16,9 +16,9 @@ En mis repositorios voy compartiendo el camino de mi reconversión profesional y
 📧 If you want to chat with me contact me directly on Linkedin https://www.linkedin.com/in/eugenia-aciar/ or send me an email: maugeaciar@gmail.com
 
 
-
 -----------------------------------------------------------------------------------------------------------------------------------------
-![Under-Construction-Sign](https://github.com/maugeaciar/maugeaciar/assets/50775494/de714811-3d9b-44b1-9803-fb3da3f56301)
+![Under-Construction-Sign](https://github.com/maugeaciar/maugeaciar/assets/50775494/c9b4afa7-bb7a-426d-9366-2c585a9feee0)
+
 
 
 
