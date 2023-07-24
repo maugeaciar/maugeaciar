@@ -17,7 +17,7 @@ En mis repositorios voy compartiendo el camino de mi reconversión profesional y
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
-![Under-Construction-Sign](https://github.com/maugeaciar/maugeaciar/assets/50775494/c9b4afa7-bb7a-426d-9366-2c585a9feee0)
+               ![Under-Construction-Sign](https://github.com/maugeaciar/maugeaciar/assets/50775494/c9b4afa7-bb7a-426d-9366-2c585a9feee0)
 
 
 
