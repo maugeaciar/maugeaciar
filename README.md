@@ -2,7 +2,7 @@
 
 📊 + 👥⁣ Ayudo a entender cómo las personas en sus diferentes escalas y formas (individuos, grupos,sociedad) toman decisiones a través del Análisis de Datos. Entiendo que la información basada en datos es clave para tomar mejores decisiones y generar impacto positivo a futuro en diferentes ámbitos como el económico,social y ambiental. 
 
-Con más de 8 años de experiencia en el ámbito académico, específicamente en Ciencias de la Tierra, actualmente estoy realizando una emocionante transición profesional hacia el mundo tecnológico en roles de ##Data Analyst/ Data Scientist tratando de unir mi background científico con el Análisis de Datos.
+Con más de 8 años de experiencia en el ámbito académico, específicamente en Ciencias de la Tierra, actualmente estoy realizando una emocionante transición profesional hacia el mundo tecnológico en roles de Data Analyst/ Data Scientist tratando de unir mi background científico con el Análisis de Datos.
 
 Mi formación reciente está enfocada en herramientas utilizadas en Inteligencia de Negocios como Python para el análisis de datos (NumPy,Pandas,Matplotlib,Scikitlearn), SQL, Power BI y Qlik. También estoy certificada como Cloud Practitioner de AWS. 
 
